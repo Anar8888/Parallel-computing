@@ -1,0 +1,15 @@
+﻿Build started 21.06.2017 11:00:31.
+     1>Project "C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\MPI2\MPI2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microdoft Visual Studio 13.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft MPI\Inc" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\bocman\documents\5kurse2sem\strychkov\a\mpi2\mpi2\source.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bocman\documents\5kurse2sem\strychkov\a\mpi2\mpi2\source.cpp(84): warning C4018: '>' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microdoft Visual Studio 13.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\Debug\MPI2.exe" /INCREMENTAL /NOLOGO msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\Debug\MPI2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\Debug\MPI2.lib" /MACHINE:X86 Debug\Source.obj
+         MPI2.vcxproj -> C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\Debug\MPI2.exe
+     1>Done Building Project "C:\Users\Bocman\Documents\5Kurse2SEM\Strychkov\A\MPI2\MPI2\MPI2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
